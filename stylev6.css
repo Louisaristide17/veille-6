@@ -6,8 +6,9 @@
 }
 
 body{
-    background:linear-gradient(135deg,#1f4037,#99f2c8);
+     background:linear-gradient(135deg,#d4f0e8,#ffffff);
     padding:40px 20px;
+    color:#333;
     
 }
 
@@ -57,3 +58,4 @@ footer{
     color:#666;
 
 }
+
