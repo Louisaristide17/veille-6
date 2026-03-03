@@ -6,7 +6,7 @@
 }
 
 body{
-    background:linear-gradient(135deg,#d4f0e8,#ffffff);
+    background:linear-gradient(135deg,#ffffff,#ffffff);
     padding:40px 20px;
     color:#333;
     
@@ -58,5 +58,6 @@ footer{
     color:#666;
 
 }
+
 
 
